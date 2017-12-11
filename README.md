@@ -17,4 +17,4 @@ volatility statistics and pushed them into a dictionary.  We created CSV files 
 forecasting tools.  Our forecast tools
 utilized were ARIMA, Holt Additive, Holt Additive Damped, and ETS.
 
-![img src](Project 2- Tableau.png)
+![img src](https://github.com/kkillion43/Quant-Finance-Project/blob/master/Project%202-%20Tableau.png)
