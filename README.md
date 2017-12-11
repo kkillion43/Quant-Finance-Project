@@ -17,3 +17,4 @@ volatility statistics and pushed them into a dictionary.  We created CSV files 
 forecasting tools.  Our forecast tools
 utilized were ARIMA, Holt Additive, Holt Additive Damped, and ETS.
 
+![img src](The File name.png)
